@@ -21,9 +21,9 @@ Welcome to the ClickSUMO documentation directory! This folder contains all proje
 
 ## 🔗 Quick Links
 
-- [Report an Issue](https://github.com/yourusername/clicksumo/issues)
-- [Request a Feature](https://github.com/yourusername/clicksumo/issues/new)
-- [Start a Discussion](https://github.com/yourusername/clicksumo/discussions)
+- [Report an Issue](https://github.com/mahbubchula/clickSUMO/issues)
+- [Request a Feature](https://github.com/mahbubchula/clickSUMO/issues/new)
+- [Start a Discussion](https://github.com/mahbubchula/clickSUMO/discussions)
 
 ## 📖 Documentation Structure
 
@@ -39,4 +39,4 @@ docs/
 
 ---
 
-**Need help?** Check the [main README](../README.md) or open an [issue](https://github.com/yourusername/clicksumo/issues).
+**Need help?** Check the [main README](../README.md) or open an [issue](https://github.com/mahbubchula/clickSUMO/issues).

@@ -26,7 +26,9 @@ Whether you're designing traffic networks, analyzing vehicle flows, or teaching 
 
 ## ⚡ Try It Online
 
-**🌐 [Launch ClickSUMO on Streamlit Cloud](#)** *(Coming Soon)*
+**🌐 [Launch ClickSUMO on Streamlit Cloud](https://clicksumo.streamlit.app/)** - **Live Now!** 🚀
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://clicksumo.streamlit.app/)
 
 > **Why "ClickSUMO"?** Because traffic simulation should be as simple as one click!
 
@@ -47,7 +49,7 @@ Or install locally:
 **Option 1: Automated Setup (Recommended)**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sumo-forge.git
+git clone https://github.com/mahbubchula/clickSUMO.git
 cd sumo-forge
 
 # Run automated setup script
@@ -58,7 +60,7 @@ python setup.py
 
 1. **Clone or navigate to the project**
    ```bash
-   git clone https://github.com/yourusername/sumo-forge.git
+   git clone https://github.com/mahbubchula/clickSUMO.git
    cd sumo-forge
    ```
 
@@ -293,7 +295,7 @@ Once your files are generated, run the simulation using SUMO:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sumo-forge.git
+git clone https://github.com/mahbubchula/clickSUMO.git
 cd sumo-forge
 
 # Create virtual environment
@@ -398,8 +400,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Have questions or feedback? We'd love to hear from you!
 
-- � **Report Issues**: [GitHub Issues](https://github.com/yourusername/sumo-forge/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/sumo-forge/discussions)
+- � **Report Issues**: [GitHub Issues](https://github.com/mahbubchula/clickSUMO/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/mahbubchula/clickSUMO/discussions)
 - 📧 **Email**: [6870376421@student.chula.ac.th](mailto:6870376421@student.chula.ac.th)
 - ⭐ **Star this repo** if you find it useful!
 
@@ -417,7 +419,7 @@ Have questions or feedback? We'd love to hear from you!
 
 If you find this project helpful, please consider giving it a ⭐!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/sumo-forge&type=Date)](https://star-history.com/#yourusername/sumo-forge&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mahbubchula/clickSUMO&type=Date)](https://star-history.com/#mahbubchula/clickSUMO&Date)
 
 ---
 

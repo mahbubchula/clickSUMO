@@ -114,6 +114,6 @@ This is the first public release of ClickSUMO, providing the core functionality 
 
 ---
 
-[Unreleased]: https://github.com/yourusername/clicksumo/compare/v0.2.0...HEAD
-[0.2.0]: https://github.com/yourusername/clicksumo/releases/tag/v0.2.0
-[0.1.0]: https://github.com/yourusername/clicksumo/releases/tag/v0.1.0
+[Unreleased]: https://github.com/mahbubchula/clickSUMO/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/mahbubchula/clickSUMO/releases/tag/v0.2.0
+[0.1.0]: https://github.com/mahbubchula/clickSUMO/releases/tag/v0.1.0

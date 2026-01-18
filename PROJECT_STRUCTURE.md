@@ -274,4 +274,4 @@ streamlit run app.py
 
 ---
 
-**Questions?** Check [README.md](README.md) or open an [issue](https://github.com/yourusername/clicksumo/issues).
+**Questions?** Check [README.md](README.md) or open an [issue](https://github.com/mahbubchula/clickSUMO/issues).
