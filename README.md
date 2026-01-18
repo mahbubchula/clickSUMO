@@ -429,9 +429,7 @@ If you find this project helpful, please consider giving it a ⭐!
 
 *Last updated: January 2026*
 
-[⬆ Back to Top](#-simplesumo)
+[⬆ Back to Top](#-clicksumo)
 
 </div>
 
-.  
- 
