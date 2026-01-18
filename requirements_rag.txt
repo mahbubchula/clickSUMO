@@ -1,0 +1,21 @@
+# RAG System Dependencies (Simplified)
+# Install these separately after main requirements.txt
+
+# HTML parsing - already installed
+beautifulsoup4>=4.12.0
+
+# Embeddings - using CPU-only version for easier installation
+sentence-transformers>=2.2.0
+
+# Vector database - FAISS for efficient similarity search
+faiss-cpu>=1.7.0
+
+# LangChain for RAG
+langchain>=0.1.0
+langchain-groq>=0.0.1
+
+# Token counting
+tiktoken>=0.5.0
+
+# Note: Using FAISS instead of ChromaDB for better Windows/Python 3.14 compatibility
+# All packages have pre-built wheels for easy installation

@@ -1,0 +1,13 @@
+# System-level dependencies for Streamlit Cloud deployment
+# These packages will be installed via apt-get
+
+# No additional system packages needed for basic functionality
+# Uncomment below if you add features that need these:
+
+# For PDF generation:
+# libcairo2-dev
+# pkg-config
+
+# For image processing:
+# libpng-dev
+# libjpeg-dev

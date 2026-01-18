@@ -1,0 +1,23 @@
+# Streamlit Configuration for SimpleSUMO
+# Premium Design System v5.0
+# =======================================
+
+[theme]
+# Premium dark theme colors
+base = "dark"
+primaryColor = "#00D9A5"
+backgroundColor = "#0A0F1C"
+secondaryBackgroundColor = "#111827"
+textColor = "#FFFFFF"
+font = "sans serif"
+
+[server]
+# Server settings
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 200
+
+[browser]
+# Browser settings
+gatherUsageStats = false

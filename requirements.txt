@@ -1,0 +1,33 @@
+# ClickSUMO Dependencies
+# =======================
+
+# Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.7.0
+
+# XML Processing
+lxml>=4.9.0
+
+# Excel Export
+openpyxl>=3.1.0
+
+# LLM Integration
+groq>=0.4.0
+
+# RAG System (AI Knowledge Base)
+beautifulsoup4>=4.12.0       # HTML parsing for documentation
+sentence-transformers>=2.2.0  # Text embeddings
+faiss-cpu>=1.7.0             # Vector database (efficient similarity search)
+langchain>=0.1.0             # RAG framework
+langchain-groq>=0.0.1        # Groq integration for LangChain
+tiktoken>=0.5.0              # Token counting
+
+# Utilities
+python-dotenv>=1.0.0
