@@ -79,8 +79,7 @@ nul
 saved_projects/
 user_data/
 
-# Vector database (can be rebuilt)
-vector_db/
+# Test vector database (development only)
 test_vector_db/
 
 # Documentation (large folder - users can download separately)
